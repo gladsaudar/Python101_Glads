@@ -1,8 +1,8 @@
 # python_intro.py
 """Python Essentials: Introduction to Python.
-<Name>
-<Class>
-<Date>
+<Gladys Audar>
+<OG-CORE>
+<September 29, 2024>
 """
 
 
