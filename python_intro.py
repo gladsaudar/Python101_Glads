@@ -7,7 +7,7 @@
 
 
 # Problem 1 (write code below)
-if __main__ == "__main__":
+if __main__ == "__main__" :
     print("Hello, world!")
 
 # Problem 2
